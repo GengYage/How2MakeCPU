@@ -1,4 +1,9 @@
 # 如何用计算机组成原理，数字电路的知识仿真一个CPU？
+
+
+
+![image-20210314003812402](https://i.loli.net/2021/03/14/MQBJ62la5RkzxIL.png)
+
 为了简单，此CPU采用哈佛架构(非冯诺伊曼)
 主要实现 PC,RAM，ROM，Register，等等的8位计算器，最终会开发出此CPU的汇编程序
 
